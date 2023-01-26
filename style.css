@@ -1,0 +1,15 @@
+table{
+    border: red 1px solid;
+}
+
+table.verde2{
+    border: green 1px solid
+}
+td.bloque{
+    border: blue 1px solid;
+}
+
+td.verde{
+    border: green 1px solid;
+    width: 70px;
+}
